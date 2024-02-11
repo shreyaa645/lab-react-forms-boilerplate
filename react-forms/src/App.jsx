@@ -19,7 +19,7 @@ function App() {
     lastName: false,
     email: false,
     phoneNumber: false,
-  })
+  }) 
 
   const [registrationSuccess, setRegistrationSuccess] = useState(false)
 
